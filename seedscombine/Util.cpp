@@ -2,6 +2,7 @@
 
 #include "Util.h"
 
+#include <algorithm>
 #include <ostream>
 #include <iostream>
 

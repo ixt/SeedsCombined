@@ -3,6 +3,7 @@
 #ifndef SUPERPIXEL_UTIL_H
 #define	SUPERPIXEL_UTIL_H
 
+#include <cmath>
 #include <vector>
 #include <unordered_map>
 

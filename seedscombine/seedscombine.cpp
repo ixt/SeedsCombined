@@ -87,7 +87,7 @@ bool seedsCombine(Mat &inputImg, Mat &tagsImg, Mat &resultImg)
   resultImg = inputImg.clone();
   resultImg = (Scalar) 0;
 
-  sranddev();
+  srandom(time(NULL));
   
   if (debugWriteIntermediateFiles) {
     generateStaticColortable(inputImg, spImage);
