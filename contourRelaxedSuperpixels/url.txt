@@ -1,1 +1,0 @@
-http://www.vsi.cs.uni-frankfurt.de/research/current-projects/superpixel-segmentation/
