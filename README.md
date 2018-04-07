@@ -2,7 +2,7 @@
 
 "It works for me now... I think" 
 
-Follow the repo back in time to see where it was abandoned on OSX, the make file should work going forward on Ubuntu. 
+Follow the repo back in time to see where it was abandoned on OSX, the make file should work going forward on Debian. 
 
 
 not sure if this is helpful futureself but:
